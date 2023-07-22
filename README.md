@@ -52,3 +52,12 @@ This is an example of a *text with an asterisk*. When we don't want it to be ita
 > *“The first time you're careful. You learn what you need to know to kill and take care of the details.”* __Ted Bundy__
 
 ---
+<!--Link Rule-->
+
+**NOTE**
+We wuold want to put the link description inside square brackets and the link to the resource inside of two open and close parentheses.
+
+[Sena Farahgibli Pexels Collection](https://www.pexels.com/@sena-124841843/)
+
+
+

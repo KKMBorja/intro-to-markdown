@@ -39,3 +39,9 @@ We can add triple hyphens to create a horizontal rule for separating content.
 
 Another way to add _Horizontal Rules_ in our document markdown is by using three underscores.
 ___
+
+<!--Escape Character Rule using Backslash-->
+
+This is an example of a *text with an asterisk*. When we don't want it to be italicized, we want to use the backslash \ to escape the rule of using an opening \*asterisk* and closing \*asterisk* to enclose the text content.
+---
+

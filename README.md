@@ -31,3 +31,11 @@ This is another example of a way to have __strong text__ in our document. Anythi
 <!--Strike Through-->
 
 This is an example of a ~~strikethrough~~ text. Anything between the opening double tilde and closing double tilde characters will be displayed as ~~strikethrough~~ text.
+
+---
+<!--Horizontal Rule-->
+
+We can add triple hyphens to create a horizontal rule for separating content. 
+
+Another way to add _Horizontal Rules_ in our document markdown is by using three underscores.
+___

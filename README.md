@@ -28,3 +28,6 @@ This is an example of **strong text**, anything between two opening asterisks an
 
 This is another example of a way to have __strong text__ in our document. Anything between two opening underscores and closing underscores will be displayed as __strong text__.
 
+<!--Strike Through-->
+
+This is an example of a ~~strikethrough~~ text. Anything between the opening double tilde and closing double tilde characters will be displayed as ~~strikethrough~~ text.

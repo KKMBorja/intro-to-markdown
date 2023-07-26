@@ -64,4 +64,122 @@ We can add a balloon tip title to our link by using double quotes after the link
 
 [Sena Farahgibli Pexels Collection](https://www.pexels.com/@sena-124841843/ "This is Sena's Pexel Photo Collection")
 
-////End of Lesson - 10 Unordered List - Start from beginning
+<!--LIST ITEM RULES-->
+<!--UNORDERED LIST ITEMS-->
+
+* Item 1 - this is going to be our list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 2 - this is going to be our list item 2
+  * This is our list item 2 child item 1
+  * This is our list item 2 child item 2
+* Item 3 - this is going to be our list item 3
+  * This is our list item 3 child item 1
+  * This is our list item 3 child item 2
+* Item 4 - this is going to be our list item 4
+  * This is our list item 4 child item 1
+  * This is our list item 4 child item 2
+* Item 5 - this is going to be our list item 5
+  * This is our list item 5 child item 1
+  * This is our list item 5 child item 2
+
+<!--ORDERED LIST-->
+
+1. Item 1 - this is going to be our list item 1
+   
+   1.1 This is our list item 1 child item 1
+  
+   1.2 This is our list item 1 child item 2
+  
+2. Item 2 - this is going to be our list item 2
+   
+   2.1 This is our list item 2 child item 1
+   
+   2.2 This is our list item 2 child item 2
+   
+3. Item 3 - this is going to be our list item 3
+   
+   3.1 This is our list item 3 child item 1
+
+   3.2 This is our list item 3 child item 2
+   
+4. Item 4 - this is going to be our list item 4
+
+   4.1 This is our list item 4 child item 1
+
+   4.2 This is our list item 4 child item 2
+   
+5. Item 5 - this is going to be our list item 5
+   
+   5.1 This is our list item 5 child item 1
+
+   5.2 This is our list item 5 child item 2
+
+---
+
+<!--CODE BLOCK INLINE EXAMPLE RULE-->
+
+**NOTE**: *__Backticks__ will allow us to show the code block or paragraph tags in this example. It is located below the tilde character and on tab of the tab key*
+
+`<p> This is a paragraph taw with an inline code block example and closing tags </p>`
+
+---
+
+
+<!--IMAGE RULE-->
+
+![This is an image](https://images.pexels.com/photos/54379/pexels-photo-54379.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+---
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+
+<!-- CODE BLOCKS FOR GITHUB DOCUMENTATION-->
+
+```install npm
+npm install
+
+npm start
+```
+
+---
+
+**NOTE**:
+You can specify some syntax code blocks for different languages
+
+```javascript
+function testAdd(num1,num2){
+return num1 + num2;
+}
+```
+
+```python
+def pythonAdd(num1,num2);
+return num 1 + num2;
+```
+
+```C#
+Public static int Sum(int num1, int num2)
+{
+int total;
+total = num1 + num2;
+return total;
+}
+```
+
+---
+
+<!--table rules-->
+
+| Name   | Nickname | Email |
+|--------|----------|-------|
+|Kathleen| Kat      | kkmborja@kodego.com |
+|Mark    | Mumbles  | mark@mumbles.com|  
+
+---
+
+<!--TASKS LIST-->
+
+* [x] Task 1
+* [ ] Task 2
+* [ ] Task 3
+* [ ] Task 4
